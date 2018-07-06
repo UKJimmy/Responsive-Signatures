@@ -13,16 +13,16 @@
   "website": "https://sweetsquared.com"
 },
 {
-  "id": "dark",
+  "id": "dark2",
   "signature": "Love &amp; Respect,",
-  "name": "Samuel Sweet",
-  "title": "CEO",
+  "name": "Joseph Bradley",
+  "title": "IT Systems Developer",
   "contactAddress": "Unit 2 Green Park, Coal Road, Leeds, LS14 1FB",
-  "contactMain": "T: <a href='tel:+443330007000'><span>033 000 7000</span></a> <br /> D: <a href='tel:+441132173808'><span>0113 217 3808</span></a>",
+  "contactMain": "T: <a href='tel:+443330007000'><span>033 000 7000</span></a> <br /> D: <a href='tel:+441132173846'><span>0113 217 3846</span></a>",
   "contactMail": "info@dark.dk",
   "registered": "Registered in England. Registered office as above. Company number: 05900639. VAT Registration: GB 202 3471 57",
   "slogan": "Sweet Squared",
-  "logoUrl": "/assets/s2_logo_black_small.png",
+  "logoUrl": "/assets/pepe.png",
   "logoAlt": "dark logo",
   "website": "https://sweetsquared.com"
 }

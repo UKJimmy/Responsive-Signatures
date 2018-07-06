@@ -123,6 +123,7 @@ a{
   color: #9E9E9E;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
+  padding-top: 10px;
   padding-right: 2px;
   max-width: 40px;
   position: fixed;
