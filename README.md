@@ -241,3 +241,4 @@ Unfortnately, Outlook 2010 client dosen't support HTML file import features for 
 #### About fadeit
 We build awesome software, web and mobile applications.
 See more at [fadeit.dk](https://fadeit.dk)
+# ResponsiveHTML
