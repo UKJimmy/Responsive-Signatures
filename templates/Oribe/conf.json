@@ -1,0 +1,36 @@
+[
+  {
+    "id": "Melanie_Jones",
+    "signature": "Love &amp; Respect,",
+    "name": "Melanie Jones",
+    "title": "Oribe Partnership Manager",
+    "contactAddress": "Unit 2 Green Park, Coal Road, Leeds, LS14 1FB",
+    "contactMain": "T: <a href='tel:+447860285494><span>+447860285494</span></a>",
+    "contactMail": "info@dark.dk",
+    "registered": "Registered in England. Registered office as above. Company number: 05900639. VAT Registration: GB 202 3471 57",
+    "slogan": "Sweet Squared",
+    "logoUrl": "/assets/Black_Heart_96DPI.png",
+    "logoAlt": "S2 Logo",
+    "logoUrl2": "/assets/Oribe_LOGO_96DPI.png",
+    "logoAlt2": "Oribe Logo",
+    "icon": "& COLOR . ME",
+    "website": "https://sweetsquared.com"
+  },
+  {
+    "id": "Nicole_Pinto",
+    "signature": "Love &amp; Respect,",
+    "name": "Nicole Pinto",
+    "title": "Oribe Partnership Manager",
+    "contactAddress": "Unit 2 Green Park, Coal Road, Leeds, LS14 1FB",
+    "contactMain": "T: <a href='tel:+447860957298><span>+447860957298</span></a>",
+    "contactMail": "info@dark.dk",
+    "registered": "Registered in England. Registered office as above. Company number: 05900639. VAT Registration: GB 202 3471 57",
+    "slogan": "Sweet Squared",
+    "logoUrl": "/assets/Black_Heart_96DPI.png",
+    "logoAlt": "S2 Logo",
+    "logoUrl2": "/assets/Oribe_LOGO_96DPI.png",
+    "logoAlt2": "Oribe Logo",
+    "icon": "& COLOR . ME",
+    "website": "https://sweetsquared.com"
+  }
+]

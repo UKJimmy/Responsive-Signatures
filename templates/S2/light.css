@@ -13,7 +13,7 @@ body {
 }
 
 tr{
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial;
   box-sizing: border-box;
   font-size: 14px;
   line-height: 20px;
@@ -40,7 +40,7 @@ tr{
   padding-top:15px;
 }
 
-.sp{ /* Separator tr; props are actually contained by it's inner element atm. */ }
+.spd{ /* Separator tr; props are actually contained by it's inner element atm. */ }
 
 .sp__inner{
   padding: 15px 0;
@@ -62,8 +62,9 @@ tr{
 }
 
 a{
-  text-decoration: none;
+/**  text-decoration: none; **/
   color: #0fade1;
+  align-content: left;
 }
 
 /*
@@ -92,11 +93,47 @@ a{
  * 3. Footer styles.
  * ================
  */
+
+#LoveandRespect {
+  color: black;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+
+#ContactInfo {
+  color: black;
+  padding-left: 5px;
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+#S2Logo {
+  width: auto;
+  min-width: 40px;
+  height: auto;
+}
+
+#disclaimer {
+  font-family: 'Helvetica';
+  color: grey;
+  padding-bottom: 50px;
+  font-size: 9px;
+}
+
+#KMLogo {
+  width: 200px;
+  min-width: 40px;
+  max-width: 100px;
+  height: 150px;
+  max-height: 80px;
+}
+
 .footer{
   background-color: #f5f5f5;
+  color: grey;
   padding: 20px 30px 0px 30px;
-  color: #888;
   border-top: 8px solid #EAEAEA;
+  border-bottom: 8px solid #EAEAEA;
 }
 
 .footer a{
@@ -128,8 +165,19 @@ a{
 }
 
 .footer__main__col1__td{
+  width: 8%;
+  min-width: 8%;
+  max-width: 15%;
   font-size: 14px;
   color: #888;
+  /* @todo gulp-inline-css doesn't parse align */
+  align:left;
+}
+
+.footer__main__col2__td{
+  font-size: 16px;
+  color: #888;
+  padding-right: 5px;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
 }
