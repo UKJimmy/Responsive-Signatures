@@ -4,3 +4,5 @@
 .DS_Store
 /dist
 templates/dark/conf.json
+templates/Kevin Murphy/conf.json
+templates/S2/conf.json
