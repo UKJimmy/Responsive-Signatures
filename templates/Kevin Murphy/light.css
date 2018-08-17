@@ -15,8 +15,8 @@ body {
 tr{
   font-family: 'Helvetica Neue', Helvetica, Arial;
   box-sizing: border-box;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 9px;
+  line-height: 18px;
 }
 
 .rbcc{
@@ -44,6 +44,8 @@ tr{
 
 .sp__inner{
   padding: 15px 0;
+  color: grey;
+  font-size: 9px;
 }
 
 .gray-hr{ /* 100% width light grey line; props are actually contained by inner elements atm. */ }
@@ -77,7 +79,7 @@ a{
   padding: 10px 30px 0 30px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 22px;
+  line-height: 18px;
 }
 
 .main__content{
@@ -94,30 +96,13 @@ a{
  * ================
  */
 
-#LoveandRespect {
-  color: black;
-  font-size: 15px;
-  padding-bottom: 10px;
-}
+
 
 #ContactInfo {
   color: black;
   padding-left: 6px;
-  font-size: 13px;
+  font-size: 14px;
   vertical-align: top;
-}
-
-#S2Logo {
-  min-width: 55px;
-  width: 70px;
-  height: auto;
-}
-
-#disclaimer {
-  font-family: 'Helvetica';
-  color: grey;
-  margin-top: 10px;
-  font-size: 9px;
 }
 
 #KMLogo {
@@ -140,7 +125,6 @@ a{
 }
 
 .footer--simple{
-  padding-bottom: 20px;
   background-color: #FFFFFF;
 }
 
@@ -150,8 +134,8 @@ a{
 }
 
 .footer__main__signature{
-  font-size: 14px;
-  color: #888;
+  font-size: 15px;
+  color: black;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
 }
@@ -201,4 +185,10 @@ a{
 
 .footer__main__col2__td__img{
   margin-bottom: 15px;
+}
+
+.footer__main__col0__td__img{
+  min-width: 55px;
+  width: 70px;
+  height: auto;
 }
