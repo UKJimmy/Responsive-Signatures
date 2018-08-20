@@ -3,9 +3,6 @@
  * 1. Common styles for general table things.
  * =====================================
  */
-img {
-  max-width: 100%;
-}
 
 body {
   -webkit-font-smoothing: antialiased;
@@ -191,7 +188,8 @@ a{
 }
 
 .footer__main__col0__td__img{
-  min-width: 55px;
+  min-width: 100%;
+  min-height: 100%;
   width: 70px;
   height: auto;
 }

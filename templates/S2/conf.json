@@ -26,6 +26,34 @@
     "logoUrl": "/assets/Black_Heart_96DPI.png",
     "logoAlt": "S2 Logo",
     "website": "https://www.sweetsquared.com"
+  },
+  {
+    "id": "Samuel_Hansen",
+    "signature": "Love &amp; Respect,",
+    "name": "Sam Hansen",
+    "title": "IT Systems Developer",
+    "contactAddress": "Unit 2 Green Park, Coal Road, Leeds, LS14 1FB",
+    "contactMain": "T: <a href='tel:+443330007000'><span>0333 000 7000</span></a> <br /> D: <a href='tel:+441132173826'><span>0113 217 3826</span></a>",
+    "contactMail": "info@dark.dk",
+    "registered": "Registered in England. Registered office as above. Company number: 05900639. VAT Registration: GB 202 3471 57",
+    "slogan": "Sweet Squared",
+    "logoUrl": "/assets/Black_Heart_96DPI.png",
+    "logoAlt": "S2 Logo",
+    "website": "https://www.sweetsquared.com"
+  },
+  {
+    "id": "Arron_Crossman",
+    "signature": "Love &amp; Respect,",
+    "name": "Arron Crossman",
+    "title": "IT Systems Developer",
+    "contactAddress": "Unit 2 Green Park, Coal Road, Leeds, LS14 1FB",
+    "contactMain": "T: <a href='tel:+443330007000'><span>0333 000 7000</span></a> <br /> D: <a href='tel:+441132173809'><span>0113 217 3809</span></a>",
+    "contactMail": "info@dark.dk",
+    "registered": "Registered in England. Registered office as above. Company number: 05900639. VAT Registration: GB 202 3471 57",
+    "slogan": "Sweet Squared",
+    "logoUrl": "/assets/Black_Heart_96DPI.png",
+    "logoAlt": "S2 Logo",
+    "website": "https://www.sweetsquared.com"
   }
 ]
   
