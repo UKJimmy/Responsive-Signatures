@@ -1,26 +1,21 @@
+<tr class="spd">
+  <!-- @todo gulp-inline-css doesn't parse align -->
+  <td class="footer__main__signature">
+    <!-- @echo signature -->
+    <br />
+    <strong>
+      <!-- @echo name -->
+    </strong>
+    <br />
+    <strong>
+      <!-- @echo title -->
+      <br />
+    </strong>
+    <br />
+  </td>
+</tr>
 <td class="footer" height:"50px">
-  <table class="rbcc footer__main" height="70px">
-    <tr>
-      <!-- @todo gulp-inline-css doesn't parse align -->
-      <td class="footer__main__signature" align="left">
-        <!-- @echo signature -->
-        <br />
-        <strong>
-          <!-- @echo name -->
-        </strong>
-        <br />
-        <strong>
-          <!-- @echo title -->
-        <br/>
-        </strong>
-        <br />
-      </td>
-    </tr>
-
-    <tr class="spd">
-      <td class="spd__inner"></td>
-    </tr>
-
+  <table class="rbcc footer__main">
     <tr>
       <!-- @todo gulp-inline-css doesn't parse align -->
       <table class="rbcc footer__main__col1" align="left" height:"70%">
@@ -32,16 +27,18 @@
         <!-- @todo gulp-inline-css doesn't parse align -->
         <td class="footer__main__col2__td" align="left" id="ContactInfo" height="65px">
           <span>
-              <a id="ContactInfo">
-                <b>
+            <a id="ContactTitle">
+              <b>
                 <!-- @echo slogan -->
-                </b>
-                <br/>
-                <!-- @echo contactMain -->
-                <br/>
-              </a><a id="ContactAddress">
-                <!-- @echo contactAddress -->
-              </a>
+              </b>
+            </a>
+            <a id="ContactInfo">
+              <br />
+              <!-- @echo contactMain -->
+              <br />
+            </a><a id="ContactAddress">
+              <!-- @echo contactAddress -->
+            </a>
           </span>
 
         </td>
@@ -49,7 +46,7 @@
       <!-- @todo gulp-inline-css doesn't parse align -->
       <table class="rbcc footer__main__col2" align="right">
         <!-- @todo gulp-inline-css doesn't parse align -->
-        <td class="footer__main__col2__td" align="right" height:"60px">
+        <td class="footer__main__col2__td" align="right">
           </a>
         </td>
       </table>

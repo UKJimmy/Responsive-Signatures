@@ -10,14 +10,9 @@ body {
 }
 
 tr{
-  font-family: Helvetica;
   box-sizing: border-box;
   font-size: 9px;
   line-height: 18px;
-}
-
-td{
-  font-family: Helvetica;
 }
 
 .rbcc{
@@ -41,7 +36,8 @@ td{
   padding-top:15px;
 }
 
-.spd{ /* Separator tr; props are actually contained by it's inner element atm. */ }
+.spd{ /* Separator tr; props are actually contained by it's inner element atm. */ 
+}
 
 .sp__inner{
   padding: 15px 0;
@@ -105,10 +101,14 @@ a{
   vertical-align: top;
 }
 
-#ContactInfo {
+#ContactTitle {
   font-size: 14px;
   color: black;
-  height: auto;
+}
+
+#ContactInfo {
+  font-size: 12px;
+  color: black;
   padding-left: 6px;
 }
 
@@ -139,6 +139,7 @@ a{
 }
 
 .footer__main__signature{
+  padding-left: 30px;
   font-size: 15px;
   color: black;
   /* @todo gulp-inline-css doesn't parse align */
@@ -147,7 +148,6 @@ a{
 
 .footer__main__col1{
   width:72%;
-  margin-bottom:20px;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
 }
@@ -179,6 +179,7 @@ a{
   width:200px;
   /* @todo gulp-inline-css doesn't parse align */
   align:right;
+  margin-bottom: 5px;
 }
 
 .footer__main__col2__td{
@@ -186,6 +187,7 @@ a{
   color: #888;
   /* @todo gulp-inline-css doesn't parse align */
   align:right;
+  padding-bottom: 0px!important;
 }
 
 .footer__main__col2__td__img{
